@@ -1,0 +1,1 @@
+This repository contains comprehensive documentation and design assets for the backend system of an Airbnb Clone project. It outlines the system's key features, database schema, entity relationships, and user interactions using diagrams and supporting files.
